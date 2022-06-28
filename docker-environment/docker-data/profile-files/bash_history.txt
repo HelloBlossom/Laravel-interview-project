@@ -1,0 +1,52 @@
+lsblk -a
+uname -a
+cat /etc/*release
+sudo apt install hstr
+apt update
+sudo apt update
+sudo apt install hstr
+hstr 
+hstr --show-configuration >> ~/.bashrc && . ~/.bashrc
+source ~/.bashrc 
+cat ~/.bashrc 
+ls -l
+ls -l public/
+composer i
+php artisan key:generate
+php artisan migrate --step --seed
+php artisan migrate --step --seed
+php artisan make:controller Api/UserController
+php artisan make:migration add_user_api_key_to_users_table --table=users
+php artisan migrate --step --seed
+php artisan migrate:rollback
+php artisan migrate --step --seed
+php artisan tin
+php artisan make:migration add_user_additional_info_to_users_table --table=users
+php artisan migrate --step --seed
+php artisan migrate:fresh --step --seed
+php artisan migrate:rollback
+php artisan migrate --step --seed
+php artisan tinker
+php artisan tinker
+php artisan tinker
+php artisan tinker
+php artisan make:test ApiUserUsernameTest
+alias artisan='php artisan'
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
+artisan test
